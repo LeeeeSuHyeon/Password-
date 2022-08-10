@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "92AD49E7-D1E4-4230-9160-38BC35B21BB2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75B752A6-18E2-4FAA-A5DC-979B6EB66052"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Password/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "75B752A6-18E2-4FAA-A5DC-979B6EB66052 - 7485e9bed44a9816"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Password.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Password.ViewController"
+                  moduleName = "Password"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhyeon/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3/Password/Password/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "75B752A6-18E2-4FAA-A5DC-979B6EB66052 - 85636acb9630d1b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Password.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Password.ViewController"
+                  moduleName = "Password"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhyeon/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3/Password/Password/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "75B752A6-18E2-4FAA-A5DC-979B6EB66052 - 9d18ec5545555051"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Password.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Password.ViewController&gt;"
+                  moduleName = "Password"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhyeon/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3/Password/Password/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "75B752A6-18E2-4FAA-A5DC-979B6EB66052 - d588fec4f4c62268"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Password.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Password.ViewController&gt;"
+                  moduleName = "Password"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhyeon/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3/Password/Password/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "75B752A6-18E2-4FAA-A5DC-979B6EB66052 - 988164be0a73f55a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Password.ViewController.__deallocating_deinit"
+                  moduleName = "Password"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhyeon/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3/Password/Password/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB82525A-8E67-48D2-9A19-9B19718666AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Password/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "EB82525A-8E67-48D2-9A19-9B19718666AD - 7485e9bed44a9816"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Password.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Password.ViewController"
+                  moduleName = "Password"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhyeon/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3/Password/Password/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "EB82525A-8E67-48D2-9A19-9B19718666AD - 85636acb9630d1b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Password.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Password.ViewController"
+                  moduleName = "Password"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhyeon/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3/Password/Password/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "EB82525A-8E67-48D2-9A19-9B19718666AD - 9d18ec5545555051"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Password.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Password.ViewController&gt;"
+                  moduleName = "Password"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhyeon/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3/Password/Password/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "EB82525A-8E67-48D2-9A19-9B19718666AD - d588fec4f4c62268"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Password.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Password.ViewController&gt;"
+                  moduleName = "Password"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhyeon/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3/Password/Password/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "EB82525A-8E67-48D2-9A19-9B19718666AD - 988164be0a73f55a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Password.ViewController.__deallocating_deinit"
+                  moduleName = "Password"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhyeon/%E1%84%89%E1%85%B3%E1%84%8B%E1%85%B1%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3/Password/Password/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
