@@ -14,6 +14,7 @@
 		CBC7B53628A354EE002D8DBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBC7B53528A354EE002D8DBF /* Assets.xcassets */; };
 		CBC7B53928A354EE002D8DBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBC7B53728A354EE002D8DBF /* LaunchScreen.storyboard */; };
 		CBC7B54528A35ED0002D8DBF /* AddressTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC7B54428A35ED0002D8DBF /* AddressTableViewCell.swift */; };
+		CBFED02E28A4F86500CFED17 /* AppendIdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBFED02D28A4F86500CFED17 /* AppendIdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CBC7B53828A354EE002D8DBF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CBC7B53A28A354EE002D8DBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CBC7B54428A35ED0002D8DBF /* AddressTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressTableViewCell.swift; sourceTree = "<group>"; };
+		CBFED02D28A4F86500CFED17 /* AppendIdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppendIdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				CBC7B52E28A354ED002D8DBF /* SceneDelegate.swift */,
 				CBC7B53028A354ED002D8DBF /* ViewController.swift */,
 				CBC7B54428A35ED0002D8DBF /* AddressTableViewCell.swift */,
+				CBFED02D28A4F86500CFED17 /* AppendIdViewController.swift */,
 				CBC7B53228A354ED002D8DBF /* Main.storyboard */,
 				CBC7B53528A354EE002D8DBF /* Assets.xcassets */,
 				CBC7B53728A354EE002D8DBF /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				CBC7B52D28A354ED002D8DBF /* AppDelegate.swift in Sources */,
 				CBC7B54528A35ED0002D8DBF /* AddressTableViewCell.swift in Sources */,
 				CBC7B52F28A354ED002D8DBF /* SceneDelegate.swift in Sources */,
+				CBFED02E28A4F86500CFED17 /* AppendIdViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
